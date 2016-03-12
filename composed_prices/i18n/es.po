@@ -1,0 +1,128 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* composed_prices
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-12 17:57+0000\n"
+"PO-Revision-Date: 2016-03-12 19:03+0100\n"
+"Last-Translator: Luis Martínez <tecnisagra.ontalba@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#. module: composed_prices
+#: field:composed.price,child_ids:0
+msgid "Children"
+msgstr "Hijos"
+
+#. module: composed_prices
+#: view:composed.price:composed_prices.composed_price_view_form
+msgid "Components"
+msgstr "Componentes"
+
+#. module: composed_prices
+#: view:composed.price:composed_prices.composed_price_view_form
+#: view:composed.price:composed_prices.composed_price_view_tree
+#: view:composed.price:composed_prices.composed_price_view_tree_s
+msgid "Composed price"
+msgstr "Precio compuesto"
+
+#. module: composed_prices
+#: model:ir.ui.menu,name:composed_prices.menu_composed_price_1
+msgid "Composed prices"
+msgstr "Precios compuestos"
+
+#. module: composed_prices
+#: model:ir.ui.menu,name:composed_prices.menu_composed_price_2
+msgid "Composed prices lines"
+msgstr "Lineas p. compuestos"
+
+#. module: composed_prices
+#: view:composed.price:composed_prices.composed_price_view_form
+msgid "Costs"
+msgstr "Costes"
+
+#. module: composed_prices
+#: field:composed.price,create_uid:0
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: composed_prices
+#: field:composed.price,create_date:0
+msgid "Created on"
+msgstr "Creado"
+
+#. module: composed_prices
+#: field:composed.price,id:0
+msgid "ID"
+msgstr "ID"
+
+#. module: composed_prices
+#: field:composed.price,write_uid:0
+msgid "Last Updated by"
+msgstr "Última actualización por:"
+
+#. module: composed_prices
+#: field:composed.price,write_date:0
+msgid "Last Updated on"
+msgstr "Última actualización"
+
+#. module: composed_prices
+#: field:composed.price,parent_id:0
+msgid "Parent"
+msgstr "Padre"
+
+#. module: composed_prices
+#: model:ir.actions.act_window,name:composed_prices.action_composed_price
+msgid "Prices lines"
+msgstr "Líneas de precio"
+
+#. module: composed_prices
+#: view:composed.price:composed_prices.composed_price_view_form
+#: field:composed.price,product_tmpl_id:0
+msgid "Product"
+msgstr "Producto"
+
+#. module: composed_prices
+#: view:composed.price:composed_prices.composed_price_view_form
+#: view:composed.price:composed_prices.composed_price_view_tree
+#: view:composed.price:composed_prices.composed_price_view_tree_s
+msgid "Purchase price"
+msgstr "Precio de compra"
+
+#. module: composed_prices
+#: field:composed.price,product_qty:0
+msgid "Quantity"
+msgstr "Cantidad"
+
+#. module: composed_prices
+#: model:ir.actions.act_window,name:composed_prices.action_composed_price_s
+#: model:ir.ui.menu,name:composed_prices.menu_composed_price_3
+msgid "Structured prices"
+msgstr "Precios estructurados"
+
+#. module: composed_prices
+#: field:composed.price,brother_id:0
+msgid "Subset"
+msgstr "Subconjunto"
+
+#. module: composed_prices
+#: view:composed.price:composed_prices.composed_price_view_form
+#: view:composed.price:composed_prices.composed_price_view_tree
+#: view:composed.price:composed_prices.composed_price_view_tree_s
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#. module: composed_prices
+#: view:composed.price:composed_prices.composed_price_view_form
+#: view:composed.price:composed_prices.composed_price_view_tree
+#: view:composed.price:composed_prices.composed_price_view_tree_s
+msgid "Unit cost"
+msgstr "Coste unitario"
