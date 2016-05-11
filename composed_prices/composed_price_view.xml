@@ -33,7 +33,7 @@
 			id="composed_prices.menu_composed_price_2"
       name="Composed prices lines"
       parent="composed_prices.menu_composed_price_1"
-      sequence="20"
+      sequence="30"
       action="composed_prices.action_composed_price" />
 	
 		<record id="composed_price_view_tree_s" model="ir.ui.view">
@@ -64,7 +64,7 @@
 			id="composed_prices.menu_composed_price_3"
       name="Structured prices"
       parent="composed_prices.menu_composed_price_1"
-      sequence="30"
+      sequence="20"
       action="composed_prices.action_composed_price_s" />
 
 		<record id="composed_price_view_form" model="ir.ui.view">
