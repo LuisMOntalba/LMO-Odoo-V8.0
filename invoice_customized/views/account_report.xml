@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="account.account_invoices" model="ir.actions.report">
+        <field name="paperformat_id" ref="invoice_customized.paperformat_euro_customized"/>
+    </record>
+    <record id="account.account_invoices_without_payment" model="ir.actions.report">
+        <field name="paperformat_id" ref="invoice_customized.paperformat_euro_customized"/>
+    </record>
+</odoo>
