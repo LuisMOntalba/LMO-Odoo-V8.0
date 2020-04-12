@@ -1,5 +1,5 @@
-Odoo 8.0 modules
-================
+Odoo modules
+============
 
 composed_prices
 ---------------
